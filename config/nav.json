@@ -270,82 +270,7 @@
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "番剧资源",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "NT 动漫 🪜",
-						"url": "https://www.ntdm.tv/",
-						"icon": "https://img.fre123.com/i/2024/01/05/6598237865cd8.png",
-						"description": "专注的动漫的网站，立志为广大动漫迷提供一个在线看动漫的好平台。",
-						"suffix": true,
-						"is_show": false
-					}
-				]
-			},
-			{
-				"tab_name": "番剧下载",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "蜜柑计划",
-						"url": "https://mikanime.tv/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799a4e99649.ico",
-						"description": "新一代的动漫下载站",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "漫画阅读",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "包子漫画",
-						"url": "https://cn.baozimh.com",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
-						"description": "包子漫画为您提供优质的漫画阅读体验。",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "动漫资讯",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "Bangumi 番组计划",
-						"url": "https://bgm.tv/",
-						"icon": "https://img.fre123.com/i/2023/12/13/657999ff600a4.png",
-						"description": "专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			}
-		]
-	},
-	{
-		"group_name": "书籍资源",
-		"style": 1,
-		"style_des": "书籍资源",
-		"tab_list": [
-			{
-				"tab_name": "电子书籍",
+				"tab_name": "方剂",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -359,7 +284,7 @@
 				]
 			},
 			{
-				"tab_name": "编程书籍",
+				"tab_name": "鍼灸",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -373,7 +298,7 @@
 				]
 			},
 			{
-				"tab_name": "小说精选",
+				"tab_name": "灵治",
 				"upper_right_corner": {},
 				"details": [
 					{
