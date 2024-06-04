@@ -34,5 +34,15 @@ useHead({
 	bodyAttrs: {
 		class: 'bg-base',
 	},
+}),
+useHead({
+	script: [
+		{
+			src: `https://tj.liaofei.org/script.js`,
+			defer: true,
+			mode: 'client',
+			'data-website-id': '3a5a502b-1315-4b74-8cb7-b14bfe2e385a',
+		},
+	],
 })
 </script>
