@@ -1,11 +1,11 @@
 [
 	{
-		"group_name": "新闻资讯",
+		"group_name": "网站论坛",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "新闻热点",
+				"tab_name": "综合网站",
 				"upper_right_corner": {
 					"title": "热榜资讯汇总>>>",
 					"url": "https://www.fre123.com/news"
@@ -198,7 +198,7 @@
 					"title": "技术资讯汇总>>>",
 					"url": "https://www.fre123.com/tech"
 				},
-				"tab_name": "技术资讯",
+				"tab_name": "论坛交流",
 				"details": [
 					{
 						"title": "Hacker News",
@@ -342,7 +342,7 @@
 					"title": "精选周刊大全>>>",
 					"url": "https://www.fre123.com/weekly"
 				},
-				"tab_name": "技术周刊",
+				"tab_name": "资料下载",
 				"details": [
 					{
 						"title": "阮一峰的周刊",
