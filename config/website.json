@@ -1,13 +1,13 @@
 {
 	"base": {
-		"app_name": "易经之数",
+		"app_name": "易经之术",
 		"web_host": "https://www.yjzs.net",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
-		"title": "易经之数 免费易学相关分享平台",
+		"title": "易经之术 免费易学相关分享平台",
 		"description": "尽我所能分享给大家免费、优质的网站与资源",
-		"keywords": "易经之数, 易经, 梅花易数, 四柱八字, 奇门遁甲, 大六壬, 分享, 免费, 网站",
+		"keywords": "易经之术, 易经, 梅花易数, 四柱八字, 奇门遁甲, 大六壬, 分享, 免费, 网站",
 		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
 	},
 	"header": {
