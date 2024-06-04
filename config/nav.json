@@ -314,12 +314,12 @@
 		]
 	},
 	{
-		"group_name": "软件工具",
+		"group_name": "命门",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "软件下载",
+				"tab_name": "紫微斗数",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -333,7 +333,7 @@
 				]
 			},
 			{
-				"tab_name": "苹果专区",
+				"tab_name": "子平八字",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -343,91 +343,11 @@
 						"description": "MAC应用软件,每天更新大量精品mac软件,为您提供优质的mac软件,mac破解版软件下载",
 						"suffix": false,
 						"is_show": true
-					},
-					{
-						"title": "Appstorrent",
-						"url": "https://appstorrent.ru/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ebbbde7fe.png",
-						"description": "俄罗斯那边的 macOS 软件下载网站，质量不错",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "马可菠萝",
-						"url": "https://www.macbl.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579eaec2b275.png",
-						"description": "分享你喜欢的MAC应用",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "麦氪搜",
-						"url": "https://www.imacso.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ea9e3bdf6.png",
-						"description": "致力于分享优秀的Mac应用软件",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MacYY",
-						"url": "https://www.macyy.cn/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579eb594c1c7.png",
-						"description": "Mac破解软件分享中心",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "PoMac",
-						"url": "https://www.pomac.cc/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ea5e7a3cb.png",
-						"description": "精品Mac软件下载站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Macked",
-						"url": "https://macked.app/",
-						"icon": "https://img.fre123.com/i/2024/02/22/65d76e5f48696.png",
-						"description": "一个免费的精品MAC软件下载网站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "黑苹果屋",
-						"url": "https://imacos.top/",
-						"icon": "https://img.fre123.com/i/2024/02/22/65d76c05bfa76.png",
-						"description": "黑苹果单双系统安装教程资源软件下载",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "马克喵",
-						"url": "https://www.macat.vip/",
-						"icon": "https://img.fre123.com/i/2024/02/22/65d76cd316340.png",
-						"description": "全网最新破解MAC软件",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Cmacked",
-						"url": "https://cmacked.com/",
-						"icon": "https://img.fre123.com/i/2024/02/22/65d76dd87feef.ico",
-						"description": "一个在线免费Mac软件下载网站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MacAPP 分享频道 🪜",
-						"url": "https://macapp.org.cn/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ea029f70f.jpg",
-						"description": "精品Mac软件分享 🪜",
-						"suffix": false,
-						"is_show": true
 					}
 				]
 			},
 			{
-				"tab_name": "微软专区",
+				"tab_name": "星平会海",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -437,68 +357,186 @@
 						"description": "Windows 单机游戏免费下载",
 						"suffix": false,
 						"is_show": true
-					},
+					}
+				]
+			},
+			{
+				"tab_name": "果老星宗",
+				"upper_right_corner": {},
+				"details": [
 					{
-						"title": "系统库",
-						"url": "https://www.xitongku.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579e63ebad33.png",
-						"description": "MSDN系统库致力于原版windows生态服务",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "HelloWindows",
-						"url": "https://www.hellowindows.cn/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579e74ec73af.png",
-						"description": "精校完整极致的 Windows系统下载仓储站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "爱纯净",
-						"url": "http://www.aichunjing.com/",
-						"icon": "https://img.fre123.com/i/2024/01/05/65981c5ad5054.png",
-						"description": "Win纯净镜像，激活工具下载",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MSDN原版系统",
-						"url": "https://www.imsdn.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/05/65981bebe3731.png",
-						"description": "Windows 10 MSDN纯净ISO镜像，原版镜像下载。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MSDN-山己几子木",
-						"url": "https://msdn.sjjzm.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579e6d06a137.png",
-						"description": "原版ISO镜像下载站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "大眼仔旭",
-						"url": "http://www.dayanzai.me/",
-						"icon": "https://img.fre123.com/i/2024/02/23/65d76fbfc5733.ico",
-						"description": "个人非盈利性网站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "爱资源",
-						"url": "https://www.iwyu.com/windows",
-						"icon": "https://img.fre123.com/i/2024/02/23/65d77840a4ef7.ico",
-						"description": "爱资源是一家博客类型的资源分享平台，分享绿色软件软件，破解软件，安卓软件，纯净系统等，守住互联网最后的一片净土",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "PS资源导航",
-						"url": "https://jvhe.top/",
+						"title": "Wavse",
+						"url": "https://wavse.com/",
 						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
-						"description": "windows 系列软件资源整合",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "卜门",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "大六壬",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "苹果专区",
+						"url": "https://www.fre123.com/#软件工具_苹果专区",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6b6e043b45.ico",
+						"description": "MacOS 软件下载网站大全，持续更新！",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "小六壬",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "MacWk",
+						"url": "https://macwk.cn/",
+						"icon": "https://img.fre123.com/i/2024/02/23/65d774e5d39de.png",
+						"description": "MAC应用软件,每天更新大量精品mac软件,为您提供优质的mac软件,mac破解版软件下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "梅花易数",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "奇门遁甲",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "太乙神数",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "相门",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "印相",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "苹果专区",
+						"url": "https://www.fre123.com/#软件工具_苹果专区",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6b6e043b45.ico",
+						"description": "MacOS 软件下载网站大全，持续更新！",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "名相",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "MacWk",
+						"url": "https://macwk.cn/",
+						"icon": "https://img.fre123.com/i/2024/02/23/65d774e5d39de.png",
+						"description": "MAC应用软件,每天更新大量精品mac软件,为您提供优质的mac软件,mac破解版软件下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "面相",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "手相",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "太乙宅相神数",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "墓相",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
 						"suffix": false,
 						"is_show": true
 					}
