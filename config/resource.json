@@ -25,25 +25,25 @@
 				"name": "搜狗|微信",
 				"url": "https://weixin.sogou.com/weixin?query={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/20/65d4bc3f1dbcd.ico",
-				"is_show": true
+				"is_show": false
 			},
 			{
 				"name": "duckduckgo",
 				"url": "https://duckduckgo.com/?q={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/22/65ae2b2740867.ico",
-				"is_show": true
+				"is_show": false
 			},
 			{
 				"name": "presearch",
 				"url": "https://presearch.com/search?q={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/22/65ae2a5e16b04.png",
-				"is_show": true
+				"is_show": false
 			},
 			{
 				"name": "devv.ai",
 				"url": "https://devv.ai/zh/search/{keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/25/65b26106a8645.png",
-				"is_show": true
+				"is_show": false
 			},
 			{
 				"name": "nona",
@@ -55,13 +55,13 @@
 				"name": "yandex",
 				"url": "https://yandex.com/search/?text={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/21/65d4f90636b89.ico",
-				"is_show": true
+				"is_show": false
 			}
 		]
 	},
 	"movies": {
 		"name": "影视",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "注视影视",
@@ -115,7 +115,7 @@
 	},
 	"anime": {
 		"name": "番剧",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "动漫搜",
@@ -175,7 +175,7 @@
 	},
 	"caricature": {
 		"name": "漫画",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "包子漫画",
@@ -236,7 +236,7 @@
 
 	"ebook": {
 		"name": "书籍",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "微信读书",
@@ -284,7 +284,7 @@
 	},
 	"novels": {
 		"name": "小说",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "owllook",
@@ -332,7 +332,7 @@
 	},
 	"web_disk": {
 		"name": "网盘",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "海盗湾",
