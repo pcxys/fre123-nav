@@ -12,11 +12,20 @@
 				},
 				"details": [
 					{
-						"title": "FRE123 新闻热榜",
-						"ori_url": "https://www.fre123.com/news",
-						"url": "https://www.fre123.com/news",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
-						"description": "FRE123 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
+						"title": "易學網",
+						"ori_url": "https://www.eee-learning.com/",
+						"url": "https://www.eee-learning.com/",
+						"icon": "https://www.eee-learning.com/sites/default/files/logo2_0_0.gif",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "易经网",
+						"ori_url": "https://www.xshiqi.com/",
+						"url": "https://www.xshiqi.com/",
+						"icon": "https://img.ixintu.com/download/jpg/20200713/117c926083cf6b100eeb55a5ea3d25d3_512_512.jpg",
+						"description": "本网提供易经全部内容，包括卦辞、爻辞、彖传、文言传、系辞及六十四卦白话翻译，收集周易名家对卦辞、爻辞注释，是易经入门之必备资料。",
 						"suffix": false,
 						"is_show": true
 					}
